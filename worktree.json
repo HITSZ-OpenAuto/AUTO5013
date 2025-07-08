@@ -1,0 +1,127 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 1418,
+    "time": 1751969650,
+    "hash": "f6e91b8205e4835324e94356dc5a348b461d99ee"
+  },
+  ".hoa/worktree.json": {
+    "size": 3404,
+    "time": 1751769996,
+    "hash": "53121f35bb4934c43ed2fc1ee899dbb1f1b888c7"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1713086081,
+    "hash": "3d9d4d2c18be754b4e15364c4426077a763aa7ac"
+  },
+  "README.md": {
+    "size": 845,
+    "time": 1736242791,
+    "hash": "8b0583207f0f2eeff22d14b394a66db2302a1e82"
+  },
+  "assignments/2023/hw1.pdf": {
+    "size": 28672,
+    "time": 1707145524,
+    "hash": "9ad22ad6a0329b95a8f7973f4547c74606032b9b"
+  },
+  "assignments/2023/hw1_answer.pdf": {
+    "size": 155262,
+    "time": 1707145524,
+    "hash": "9ad22ad6a0329b95a8f7973f4547c74606032b9b"
+  },
+  "assignments/2023/hw2.pdf": {
+    "size": 28907,
+    "time": 1707145524,
+    "hash": "9ad22ad6a0329b95a8f7973f4547c74606032b9b"
+  },
+  "assignments/2023/hw2_answer.pdf": {
+    "size": 48176,
+    "time": 1707145524,
+    "hash": "9ad22ad6a0329b95a8f7973f4547c74606032b9b"
+  },
+  "assignments/2023/hw3.pdf": {
+    "size": 90484,
+    "time": 1707145524,
+    "hash": "9ad22ad6a0329b95a8f7973f4547c74606032b9b"
+  },
+  "assignments/2023/最优估计hw2.pdf": {
+    "size": 7875539,
+    "time": 1707145524,
+    "hash": "9ad22ad6a0329b95a8f7973f4547c74606032b9b"
+  },
+  "assignments/README.md": {
+    "size": 39,
+    "time": 1707144455,
+    "hash": "c33da60a97551f208e3bf324bd25713b697351c3"
+  },
+  "exams/2023_MA_A4review.docx": {
+    "size": 250055,
+    "time": 1712068963,
+    "hash": "e51c2777ab140e736cfba00f897079363ed9af5e"
+  },
+  "exams/2023_Tintin_A4纸.docx": {
+    "size": 1074773,
+    "time": 1712068963,
+    "hash": "e51c2777ab140e736cfba00f897079363ed9af5e"
+  },
+  "exams/README.md": {
+    "size": 54,
+    "time": 1707144455,
+    "hash": "c33da60a97551f208e3bf324bd25713b697351c3"
+  },
+  "notes/README.md": {
+    "size": 42,
+    "time": 1707144455,
+    "hash": "c33da60a97551f208e3bf324bd25713b697351c3"
+  },
+  "project/README.md": {
+    "size": 95,
+    "time": 1736242791,
+    "hash": "8b0583207f0f2eeff22d14b394a66db2302a1e82"
+  },
+  "project/Term_project.pdf": {
+    "size": 100205,
+    "time": 1736242791,
+    "hash": "8b0583207f0f2eeff22d14b394a66db2302a1e82"
+  },
+  "slides/2023_lecture/lec1-introduction.pdf": {
+    "size": 2813880,
+    "time": 1708922798,
+    "hash": "3cac17ddc2dcdc67b1dd77816372ba4d83afdea7"
+  },
+  "slides/2023_lecture/lec2_sto_theory.pdf": {
+    "size": 2706370,
+    "time": 1708922798,
+    "hash": "3cac17ddc2dcdc67b1dd77816372ba4d83afdea7"
+  },
+  "slides/2023_lecture/lec3_est_theory.pdf": {
+    "size": 483571,
+    "time": 1708922798,
+    "hash": "3cac17ddc2dcdc67b1dd77816372ba4d83afdea7"
+  },
+  "slides/2023_lecture/lec4_ls.pdf": {
+    "size": 322023,
+    "time": 1708922798,
+    "hash": "3cac17ddc2dcdc67b1dd77816372ba4d83afdea7"
+  },
+  "slides/2023_lecture/lec5-propagation.pdf": {
+    "size": 159450,
+    "time": 1708922798,
+    "hash": "3cac17ddc2dcdc67b1dd77816372ba4d83afdea7"
+  },
+  "slides/2023_lecture/lec6-kf.pdf": {
+    "size": 6296606,
+    "time": 1708922798,
+    "hash": "3cac17ddc2dcdc67b1dd77816372ba4d83afdea7"
+  },
+  "slides/README.md": {
+    "size": 58,
+    "time": 1707144455,
+    "hash": "c33da60a97551f208e3bf324bd25713b697351c3"
+  },
+  "tag.txt": {
+    "size": 89,
+    "time": 1736242791,
+    "hash": "8b0583207f0f2eeff22d14b394a66db2302a1e82"
+  }
+}
