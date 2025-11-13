@@ -1,0 +1,100 @@
+ID: "AUTO5013"
+SimilarID: []
+Name: "最优估计"
+CourseProperty:
+  - Year: "2022_2023"
+    Major:
+      - Name: ["自动化"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大四"
+        Semester: "秋"
+    CourseType: "限选"
+    CourseID: "AUTO5013"
+    CourseName: "最优估计"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "10"
+      - Name: "出勤"
+        Percentage: "10"
+      - Name: "项目"
+        Percentage: "40"
+      - Name: "期末考试"
+        Percentage: "40"
+    CourseHourComposition:
+      - Name: "课时构成元素1"
+        Hour: ""
+      - Name: "课时构成元素2"
+        Hour: ""
+  - Year: "2023_2024"
+    Major:
+      - Name: ["自动化"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大四"
+        Semester: "秋"
+    CourseType: "限选"
+    CourseID: "AUTO5013"
+    CourseName: "最优估计"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "10"
+      - Name: "出勤"
+        Percentage: "10"
+      - Name: "项目"
+        Percentage: "40"
+      - Name: "期末考试"
+        Percentage: "40"
+    CourseHourComposition:
+      - Name: "课时构成元素1"
+        Hour: ""
+      - Name: "课时构成元素2"
+        Hour: ""
+  - Year: "2024_2025"
+    Major:
+      - Name: ["自动化"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大四"
+        Semester: "秋"
+    CourseType: "限选"
+    CourseID: "AUTO5013"
+    CourseName: "最优估计"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "10"
+      - Name: "出勤"
+        Percentage: "10"
+      - Name: "项目"
+        Percentage: "40"
+      - Name: "期末考试"
+        Percentage: "40"
+    CourseHourComposition:
+      - Name: "课时构成元素1"
+        Hour: ""
+      - Name: "课时构成元素2"
+        Hour: ""
