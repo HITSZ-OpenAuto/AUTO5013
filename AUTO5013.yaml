@@ -1,0 +1,22 @@
+course_name: "最优估计"
+course_code: "AUTO5013"
+notices: ""
+grading:
+  0000: "作业(10%) + 出勤(10%) + 项目(40%) + 期末考试(40%)"
+teachers:
+  - name: "许鋆"
+    reviews: []
+textbooks: []
+online_resources: []
+about_course: []
+about_exam:
+  - content: |
+      可带一张 A4 纸。
+      以作业题、课堂例题为主，基本比较简单，但也会有一道较难的题。
+    submitter:
+      name: ""
+      link: ""
+study_advice: []
+schedule: []
+related_links: []
+misc: []
