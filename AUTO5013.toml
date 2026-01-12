@@ -1,0 +1,24 @@
+course_name = "最优估计"
+course_code = "AUTO5013"
+notices = ""
+
+[[lecturers]]
+name = "许鋆"
+author = { name = "", link = "", date = "" }
+reviews = []
+
+textbooks = []
+online_resources = []
+course = []
+
+[[exam]]
+content = """
+可带一张 A4 纸。
+以作业题、课堂例题为主，基本比较简单，但也会有一道较难的题。
+"""
+author = { name = "", link = "", date = "" }
+
+advice = []
+schedule = []
+related_links = []
+misc = []
