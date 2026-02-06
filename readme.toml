@@ -1,0 +1,24 @@
+course_name = "最优估计"
+repo_type = "normal"
+course_code = "AUTO5013"
+
+description = ""
+
+[[lecturers]]
+name = "许鋆"
+
+[[lecturers.reviews]]
+content = "授课风格：会认真备课，每年的课件都有更新，讲解清晰，有时会穿插一些小幽默。"
+author = { name = "Oliver Wu", link = "https://github.com/OliverWu515", date = "2025-01" }
+
+
+[[sections]]
+title = "关于考试"
+
+[[sections.items]]
+content = """
+可带一张 A4 纸。
+以作业题、课堂例题为主，基本比较简单，但也会有一道较难的题。
+2025 情况：都是基本题，没有难题。
+"""
+author = { name = "", link = "", date = "" }
