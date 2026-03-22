@@ -4,10 +4,11 @@ course_code = "AUTO5013"
 
 description = ""
 
-[[lecturers]]
+[lecturers]
+[[lecturers.items]]
 name = "许鋆"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = "授课风格：会认真备课，每年的课件都有更新，讲解清晰，有时会穿插一些小幽默。"
 author = { name = "Oliver Wu", link = "https://github.com/OliverWu515", date = "2025-01" }
 
