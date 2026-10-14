@@ -1,12 +1,5 @@
 # AUTO5013 - 最优估计
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业10%](https://img.shields.io/badge/作业-10%25-wheat)
-![出勤10%](https://img.shields.io/badge/出勤-10%25-wheat)
-![项目40%](https://img.shields.io/badge/项目-40%25-wheat)
-![期末考试40%](https://img.shields.io/badge/期末考试-40%25-wheat)
 
 ## 授课教师
 
